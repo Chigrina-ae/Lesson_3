@@ -9,3 +9,4 @@
 + git remote add origin http//...
 + git pull origin [name]
 
+надо быть внимательным к тому подклечен ли доступ к верной ветке
